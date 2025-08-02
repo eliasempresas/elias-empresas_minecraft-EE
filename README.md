@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://eliasempresasbot.github.io/elias-empresas_minecraft-EE/](https://eliasempresasbot.github.io/elias-empresas_minecraft-EE/)
+> Abrir essa página em [https://eliasempresas.github.io/elias-empresas_minecraft-EE/](https://eliasempresas.github.io/elias-empresas_minecraft-EE/)
 
 ## Usar como extensão
 
@@ -8,7 +8,7 @@ Este repositório pode ser adicionado como **extensão** no MakeCode.
 * abrir [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * clique em **Novo Projeto**
 * clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/eliasempresasbot/elias-empresas_minecraft-EE** e importe
+* procure por **https://github.com/eliasempresas/elias-empresas_minecraft-EE** e importe
 
 ## Editar este projeto
 
@@ -16,7 +16,7 @@ Para editar este repositório no MakeCode.
 
 * abrir [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/eliasempresasbot/elias-empresas_minecraft-EE** e clique em importar
+* cole **https://github.com/eliasempresas/elias-empresas_minecraft-EE** e clique em importar
 
 #### Metadados (usados para pesquisa, renderização)
 
